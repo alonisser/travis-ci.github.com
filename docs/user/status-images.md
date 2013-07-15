@@ -31,6 +31,12 @@ Or RDoc:
 
     {<img src="https://travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME].png" />}[https://travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME]]
 
+Or Rst:
+
+    .. image:: https://travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME].png
+       :target: https://travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME]
+
+
 Travis CI's own status button looks like this: [![Build Status](https://travis-ci.org/travis-ci/travis-ci.png)](https://travis-ci.org/travis-ci/travis-ci)
 
 ## Build Status For Specific Branches
